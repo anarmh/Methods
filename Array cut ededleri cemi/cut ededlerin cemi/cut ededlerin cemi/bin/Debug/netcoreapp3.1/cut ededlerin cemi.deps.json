@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "cut ededlerin cemi/1.0.0": {
+        "runtime": {
+          "cut ededlerin cemi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cut ededlerin cemi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

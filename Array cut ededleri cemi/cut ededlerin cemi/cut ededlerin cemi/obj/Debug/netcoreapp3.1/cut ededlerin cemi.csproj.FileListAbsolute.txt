@@ -1,0 +1,14 @@
+C:\Users\Anar\Desktop\Array cut ededleri cemi\cut ededlerin cemi\cut ededlerin cemi\bin\Debug\netcoreapp3.1\cut ededlerin cemi.exe
+C:\Users\Anar\Desktop\Array cut ededleri cemi\cut ededlerin cemi\cut ededlerin cemi\bin\Debug\netcoreapp3.1\cut ededlerin cemi.deps.json
+C:\Users\Anar\Desktop\Array cut ededleri cemi\cut ededlerin cemi\cut ededlerin cemi\bin\Debug\netcoreapp3.1\cut ededlerin cemi.runtimeconfig.json
+C:\Users\Anar\Desktop\Array cut ededleri cemi\cut ededlerin cemi\cut ededlerin cemi\bin\Debug\netcoreapp3.1\cut ededlerin cemi.runtimeconfig.dev.json
+C:\Users\Anar\Desktop\Array cut ededleri cemi\cut ededlerin cemi\cut ededlerin cemi\bin\Debug\netcoreapp3.1\cut ededlerin cemi.dll
+C:\Users\Anar\Desktop\Array cut ededleri cemi\cut ededlerin cemi\cut ededlerin cemi\bin\Debug\netcoreapp3.1\cut ededlerin cemi.pdb
+C:\Users\Anar\Desktop\Array cut ededleri cemi\cut ededlerin cemi\cut ededlerin cemi\obj\Debug\netcoreapp3.1\cut ededlerin cemi.csproj.AssemblyReference.cache
+C:\Users\Anar\Desktop\Array cut ededleri cemi\cut ededlerin cemi\cut ededlerin cemi\obj\Debug\netcoreapp3.1\cut ededlerin cemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anar\Desktop\Array cut ededleri cemi\cut ededlerin cemi\cut ededlerin cemi\obj\Debug\netcoreapp3.1\cut ededlerin cemi.AssemblyInfoInputs.cache
+C:\Users\Anar\Desktop\Array cut ededleri cemi\cut ededlerin cemi\cut ededlerin cemi\obj\Debug\netcoreapp3.1\cut ededlerin cemi.AssemblyInfo.cs
+C:\Users\Anar\Desktop\Array cut ededleri cemi\cut ededlerin cemi\cut ededlerin cemi\obj\Debug\netcoreapp3.1\cut ededlerin cemi.csproj.CoreCompileInputs.cache
+C:\Users\Anar\Desktop\Array cut ededleri cemi\cut ededlerin cemi\cut ededlerin cemi\obj\Debug\netcoreapp3.1\cut ededlerin cemi.dll
+C:\Users\Anar\Desktop\Array cut ededleri cemi\cut ededlerin cemi\cut ededlerin cemi\obj\Debug\netcoreapp3.1\cut ededlerin cemi.pdb
+C:\Users\Anar\Desktop\Array cut ededleri cemi\cut ededlerin cemi\cut ededlerin cemi\obj\Debug\netcoreapp3.1\cut ededlerin cemi.genruntimeconfig.cache

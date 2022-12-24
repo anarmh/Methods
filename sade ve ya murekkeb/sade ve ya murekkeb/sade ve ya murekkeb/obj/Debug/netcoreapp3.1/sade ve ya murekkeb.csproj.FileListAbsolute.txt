@@ -1,0 +1,14 @@
+C:\Users\Anar\Desktop\sade ve ya murekkeb\sade ve ya murekkeb\sade ve ya murekkeb\bin\Debug\netcoreapp3.1\sade ve ya murekkeb.exe
+C:\Users\Anar\Desktop\sade ve ya murekkeb\sade ve ya murekkeb\sade ve ya murekkeb\bin\Debug\netcoreapp3.1\sade ve ya murekkeb.deps.json
+C:\Users\Anar\Desktop\sade ve ya murekkeb\sade ve ya murekkeb\sade ve ya murekkeb\bin\Debug\netcoreapp3.1\sade ve ya murekkeb.runtimeconfig.json
+C:\Users\Anar\Desktop\sade ve ya murekkeb\sade ve ya murekkeb\sade ve ya murekkeb\bin\Debug\netcoreapp3.1\sade ve ya murekkeb.runtimeconfig.dev.json
+C:\Users\Anar\Desktop\sade ve ya murekkeb\sade ve ya murekkeb\sade ve ya murekkeb\bin\Debug\netcoreapp3.1\sade ve ya murekkeb.dll
+C:\Users\Anar\Desktop\sade ve ya murekkeb\sade ve ya murekkeb\sade ve ya murekkeb\bin\Debug\netcoreapp3.1\sade ve ya murekkeb.pdb
+C:\Users\Anar\Desktop\sade ve ya murekkeb\sade ve ya murekkeb\sade ve ya murekkeb\obj\Debug\netcoreapp3.1\sade ve ya murekkeb.csproj.AssemblyReference.cache
+C:\Users\Anar\Desktop\sade ve ya murekkeb\sade ve ya murekkeb\sade ve ya murekkeb\obj\Debug\netcoreapp3.1\sade ve ya murekkeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anar\Desktop\sade ve ya murekkeb\sade ve ya murekkeb\sade ve ya murekkeb\obj\Debug\netcoreapp3.1\sade ve ya murekkeb.AssemblyInfoInputs.cache
+C:\Users\Anar\Desktop\sade ve ya murekkeb\sade ve ya murekkeb\sade ve ya murekkeb\obj\Debug\netcoreapp3.1\sade ve ya murekkeb.AssemblyInfo.cs
+C:\Users\Anar\Desktop\sade ve ya murekkeb\sade ve ya murekkeb\sade ve ya murekkeb\obj\Debug\netcoreapp3.1\sade ve ya murekkeb.csproj.CoreCompileInputs.cache
+C:\Users\Anar\Desktop\sade ve ya murekkeb\sade ve ya murekkeb\sade ve ya murekkeb\obj\Debug\netcoreapp3.1\sade ve ya murekkeb.dll
+C:\Users\Anar\Desktop\sade ve ya murekkeb\sade ve ya murekkeb\sade ve ya murekkeb\obj\Debug\netcoreapp3.1\sade ve ya murekkeb.pdb
+C:\Users\Anar\Desktop\sade ve ya murekkeb\sade ve ya murekkeb\sade ve ya murekkeb\obj\Debug\netcoreapp3.1\sade ve ya murekkeb.genruntimeconfig.cache

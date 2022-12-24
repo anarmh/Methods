@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "sade ve ya murekkeb/1.0.0": {
+        "runtime": {
+          "sade ve ya murekkeb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sade ve ya murekkeb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

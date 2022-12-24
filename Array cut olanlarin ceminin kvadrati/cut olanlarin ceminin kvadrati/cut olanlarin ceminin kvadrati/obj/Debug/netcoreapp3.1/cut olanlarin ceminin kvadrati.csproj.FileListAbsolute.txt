@@ -1,0 +1,14 @@
+C:\Users\Anar\Desktop\Array cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\bin\Debug\netcoreapp3.1\cut olanlarin ceminin kvadrati.exe
+C:\Users\Anar\Desktop\Array cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\bin\Debug\netcoreapp3.1\cut olanlarin ceminin kvadrati.deps.json
+C:\Users\Anar\Desktop\Array cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\bin\Debug\netcoreapp3.1\cut olanlarin ceminin kvadrati.runtimeconfig.json
+C:\Users\Anar\Desktop\Array cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\bin\Debug\netcoreapp3.1\cut olanlarin ceminin kvadrati.runtimeconfig.dev.json
+C:\Users\Anar\Desktop\Array cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\bin\Debug\netcoreapp3.1\cut olanlarin ceminin kvadrati.dll
+C:\Users\Anar\Desktop\Array cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\bin\Debug\netcoreapp3.1\cut olanlarin ceminin kvadrati.pdb
+C:\Users\Anar\Desktop\Array cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\obj\Debug\netcoreapp3.1\cut olanlarin ceminin kvadrati.csproj.AssemblyReference.cache
+C:\Users\Anar\Desktop\Array cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\obj\Debug\netcoreapp3.1\cut olanlarin ceminin kvadrati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anar\Desktop\Array cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\obj\Debug\netcoreapp3.1\cut olanlarin ceminin kvadrati.AssemblyInfoInputs.cache
+C:\Users\Anar\Desktop\Array cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\obj\Debug\netcoreapp3.1\cut olanlarin ceminin kvadrati.AssemblyInfo.cs
+C:\Users\Anar\Desktop\Array cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\obj\Debug\netcoreapp3.1\cut olanlarin ceminin kvadrati.csproj.CoreCompileInputs.cache
+C:\Users\Anar\Desktop\Array cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\obj\Debug\netcoreapp3.1\cut olanlarin ceminin kvadrati.dll
+C:\Users\Anar\Desktop\Array cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\obj\Debug\netcoreapp3.1\cut olanlarin ceminin kvadrati.pdb
+C:\Users\Anar\Desktop\Array cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\cut olanlarin ceminin kvadrati\obj\Debug\netcoreapp3.1\cut olanlarin ceminin kvadrati.genruntimeconfig.cache

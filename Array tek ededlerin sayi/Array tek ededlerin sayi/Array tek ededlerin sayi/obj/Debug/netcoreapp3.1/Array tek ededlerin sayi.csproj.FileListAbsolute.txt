@@ -1,0 +1,14 @@
+C:\Users\Anar\Desktop\Array tek ededlerin sayi\Array tek ededlerin sayi\Array tek ededlerin sayi\bin\Debug\netcoreapp3.1\Array tek ededlerin sayi.exe
+C:\Users\Anar\Desktop\Array tek ededlerin sayi\Array tek ededlerin sayi\Array tek ededlerin sayi\bin\Debug\netcoreapp3.1\Array tek ededlerin sayi.deps.json
+C:\Users\Anar\Desktop\Array tek ededlerin sayi\Array tek ededlerin sayi\Array tek ededlerin sayi\bin\Debug\netcoreapp3.1\Array tek ededlerin sayi.runtimeconfig.json
+C:\Users\Anar\Desktop\Array tek ededlerin sayi\Array tek ededlerin sayi\Array tek ededlerin sayi\bin\Debug\netcoreapp3.1\Array tek ededlerin sayi.runtimeconfig.dev.json
+C:\Users\Anar\Desktop\Array tek ededlerin sayi\Array tek ededlerin sayi\Array tek ededlerin sayi\bin\Debug\netcoreapp3.1\Array tek ededlerin sayi.dll
+C:\Users\Anar\Desktop\Array tek ededlerin sayi\Array tek ededlerin sayi\Array tek ededlerin sayi\bin\Debug\netcoreapp3.1\Array tek ededlerin sayi.pdb
+C:\Users\Anar\Desktop\Array tek ededlerin sayi\Array tek ededlerin sayi\Array tek ededlerin sayi\obj\Debug\netcoreapp3.1\Array tek ededlerin sayi.csproj.AssemblyReference.cache
+C:\Users\Anar\Desktop\Array tek ededlerin sayi\Array tek ededlerin sayi\Array tek ededlerin sayi\obj\Debug\netcoreapp3.1\Array tek ededlerin sayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anar\Desktop\Array tek ededlerin sayi\Array tek ededlerin sayi\Array tek ededlerin sayi\obj\Debug\netcoreapp3.1\Array tek ededlerin sayi.AssemblyInfoInputs.cache
+C:\Users\Anar\Desktop\Array tek ededlerin sayi\Array tek ededlerin sayi\Array tek ededlerin sayi\obj\Debug\netcoreapp3.1\Array tek ededlerin sayi.AssemblyInfo.cs
+C:\Users\Anar\Desktop\Array tek ededlerin sayi\Array tek ededlerin sayi\Array tek ededlerin sayi\obj\Debug\netcoreapp3.1\Array tek ededlerin sayi.csproj.CoreCompileInputs.cache
+C:\Users\Anar\Desktop\Array tek ededlerin sayi\Array tek ededlerin sayi\Array tek ededlerin sayi\obj\Debug\netcoreapp3.1\Array tek ededlerin sayi.dll
+C:\Users\Anar\Desktop\Array tek ededlerin sayi\Array tek ededlerin sayi\Array tek ededlerin sayi\obj\Debug\netcoreapp3.1\Array tek ededlerin sayi.pdb
+C:\Users\Anar\Desktop\Array tek ededlerin sayi\Array tek ededlerin sayi\Array tek ededlerin sayi\obj\Debug\netcoreapp3.1\Array tek ededlerin sayi.genruntimeconfig.cache
